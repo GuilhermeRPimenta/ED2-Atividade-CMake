@@ -1,0 +1,3 @@
+/home/guilh/ED2-Atividade-CMake/build/CMakeFiles/hello.dir
+/home/guilh/ED2-Atividade-CMake/build/CMakeFiles/edit_cache.dir
+/home/guilh/ED2-Atividade-CMake/build/CMakeFiles/rebuild_cache.dir
